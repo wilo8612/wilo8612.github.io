@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Tableau
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Zomato Dashboard](/sample_page)
+<img src="Zomato Dashboard.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Quality Gate](/pdf/sample_presentation.pdf)
+<img src="images/Quality Gate Dashboard.png?raw=true"/>
+
+---
+[Daily Takt App](http://example.com/)
+<img src="images/Daily Takt Sheet.png?raw=true"/>
 
 ---
 
