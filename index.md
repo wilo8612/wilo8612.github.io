@@ -5,7 +5,7 @@
 ### Tableau
 
 [Zomato Dashboard](/sample_page)
-<img src="Zomato Dashboard.png?raw=true"/>
+<img src="images/Zomato Dashboard.png?raw=true"/>
 
 ---
 [Quality Gate](/pdf/sample_presentation.pdf)
