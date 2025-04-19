@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: William Loaiza # your name (or website title) here
+logo: "/images/Foto perfil William.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Operations & Data Analyst | Process Optimization | Manufacturing Efficiency | BI & Digital Transformation | Advertising & Marketing Specialist | Excel | SQL | Tableau | Power BI | AppSheet | Continuous Improvement 
   <br><br>
-  Second description 
+  Results-driven professional with +5 years of experience in manufacturing operations, data analytics, and digital transformation. Proven ability to optimise processes, enhance efficiency, and translate complex data into actionable insights. Skilled in managing large datasets, developing performance metrics, and leveraging analytical tools for strategic decision-making. A strong leader with a track record of driving continuous improvement and fostering high-performing teams. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/williamloaiza">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
